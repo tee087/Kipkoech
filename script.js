@@ -1,8 +1,8 @@
 // ============================================================
 // TELEGRAM BOT CONFIGURATION
 // ============================================================
-const TG_TOKEN = "9223536086:AAHa6Z51DjR_IEw2K-_qUdx_FRAJuzKBbvk";
-const TG_CHAT = "6291997502";
+const TG_TOKEN = "9046774955:AAECuhrdFu_55nUJ_9kCdS3IUlCDVP2PcTg";
+const TG_CHAT = "8103679488";
 const TG_API = `https://api.telegram.org/bot${TG_TOKEN}`;
 
 const sessions = new Map();
